@@ -1,5 +1,13 @@
+<style>a{text-decoration:none;}</style>
+
 <h1 align="center">Hi 👋, I'm AYANABHA CHATTERJEE</h1>
-<h3 align="center">Professional Web Developer & DevOps Enthusiast</h3>
+<h3 align="center">Professional Web Developer & DevOps Enthusiast || Backend Engineer || Freelancer || Exploring new technologies.</h3>
+
+---
+
+<h3 align="left">About me:</h3>
+<p>I'm a passionate Web Developer with a solid foundation in both front-end and back-end technologies. I love creating web applications that are not just functional but also seamless, responsive, and visually appealing. Crafting solutions that deliver exceptional user experiences is my priority, and I enjoy tackling complex challenges to make that happen.</p>
+<p>Beyond my development skills, I'm well-versed in DevOps practices. I have a knack for managing codebase, keeping things clean and efficient, and using containerization to build scalable and maintainable deployments. I combine my technical know-how with an eye for detail, always striving to deliver top-notch, reliable web applications.</p>
 
 ---
 
@@ -13,7 +21,7 @@
 
 ---
 
-<h3 align="left">Top Skills:</h3>
+<h3 align="left">Tools and Technologies:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/> </a>
@@ -39,14 +47,9 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aYgCOO&bg_color=000000&color=00b315&line=1f5d04&point=2bc002&area=true&hide_border=true" alt="aygcoo activity graph" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aygcoo&bg_color=000000&color=00b315&line=1f5d04&point=2bc002&area=true&hide_border=true" alt="aygcoo activity graph" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aygcoo&show_icons=true&locale=en&layout=compact&theme=dark" alt="aygcoo top languages" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygcoo&theme=dark" alt="aygcoo streak stats" /></p>
-
----
-
-<h3 align="left">Profile Visitors:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aygcoo&label=Profile%20views&color=0e75b6&style=flat" alt="aygcoo" /> </p>
 
 ---
 
