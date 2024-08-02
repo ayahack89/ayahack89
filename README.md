@@ -10,6 +10,11 @@
 <p>Beyond my development skills, I'm well-versed in DevOps practices. I have a knack for managing codebase, keeping things clean and efficient, and using containerization to build scalable and maintainable deployments. I combine my technical know-how with an eye for detail, always striving to deliver top-notch, reliable web applications.</p>
 
 ---
+<h3 align="left">GitHub Trophy:</h3>
+
+<imh src="https://github-profile-trophy.vercel.app/?username=aYgCOO&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 
