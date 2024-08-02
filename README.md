@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 <h1 align="center">Hi 👋, I'm AYANABHA CHATTERJEE</h1>
 <h3 align="center">Professional Web Developer & DevOps Enthusiast || Backend Engineer || Freelancer || Exploring new technologies.</h3>
 
@@ -14,7 +16,9 @@
 <a href="https://twitter.com/ayanabhach08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="ayanabhach08" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ayanabha-chatterjee-104979256" height="40" width="50" /></a>
 <a href="https://instagram.com/a_vengeance" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="a_vengeance" height="40" width="40" /></a>
-<a href="https://www.reddit.com/user/Puzzle_Age555/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" alt="reddit" height="40" width="40" /></a>
+<a href="https://www.reddit.com/user/Puzzle_Age555/" target="_blank">
+  <i class="fab fa-reddit" style="font-size: 40px;"></i>
+</a>
 </p>
 
 
