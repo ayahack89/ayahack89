@@ -12,14 +12,8 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayanabhach08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="ayanabhach08" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ayanabha-chatterjee-104979256" height="40" width="50" /></a>
-<a href="https://instagram.com/a_vengeance" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="a_vengeance" height="40" width="40" /></a>
-<a href="https://www.reddit.com/user/Puzzle_Age555/" target="_blank">
-  <i class="fab fa-reddit" style="font-size: 40px;"></i>
-</a>
-</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_vengeance) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayanabha-chatterjee-104979256) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Puzzle_Age555) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22493225) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AYANABHACH08) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@abha8853) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AYANABHA-CHATTERJEE)
 
 
 ---
