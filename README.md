@@ -1,11 +1,3 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            a{text-decoration:none;}</style>
-        </div>
-    </foreignObject>
-</svg>
 <h1 align="center">Hi 👋, I'm AYANABHA CHATTERJEE</h1>
 <h3 align="center">Professional Web Developer & DevOps Enthusiast || Backend Engineer || Freelancer || Exploring new technologies.</h3>
 
@@ -29,7 +21,7 @@
 
 <h3 align="left">Tools and Technologies:</h3>
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
