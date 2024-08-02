@@ -18,12 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&style=flat-square)](https://instagram.com/a_vengeance)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&style=flat-square)](https://instagram.com/a_vengeanc.e)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=LinkedIn&logoColor=white&style=flat-square)](https://linkedin.com/in/ayanabha-chatterjee-104979256)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?logo=Reddit&logoColor=white&style=flat-square)](https://reddit.com/user/Puzzle_Age555)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F48024?logo=Stack%20Overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/22493225)
 [![X](https://img.shields.io/badge/X-%23000000?logo=Twitter&logoColor=white&style=flat-square)](https://x.com/AYANABHACH08)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white&style=flat-square)](https://youtube.com/@@abha8853)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white&style=flat-square)](https://youtube.com/@abha8853)
 [![CodePen](https://img.shields.io/badge/CodePen-%23000000?logo=CodePen&logoColor=white&style=flat-square)](https://codepen.io/AYANABHA-CHATTERJEE)
 
 
