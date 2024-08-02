@@ -1,5 +1,11 @@
-<style>a{text-decoration:none;}</style>
-
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            a{text-decoration:none;}
+        </div>
+    </foreignObject>
+</svg>
 <h1 align="center">Hi 👋, I'm AYANABHA CHATTERJEE</h1>
 <h3 align="center">Professional Web Developer & DevOps Enthusiast || Backend Engineer || Freelancer || Exploring new technologies.</h3>
 
