@@ -58,7 +58,6 @@
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aygcoo&bg_color=000000&color=00b315&line=1f5d04&point=2bc002&area=true&hide_border=true" alt="aygcoo activity graph" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aygcoo&show_icons=true&locale=en&layout=compact&theme=dark" alt="aygcoo top languages" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygcoo&theme=dark" alt="aygcoo streak stats" /></p>
----
 
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
