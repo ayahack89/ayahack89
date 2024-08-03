@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm AYANABHA CHATTERJEE</h1>
 
-  🚀 **Professional Web Developer & DevOps Enthusiast** ♾️ <br>
-  💼 **Backend Engineer** <br>
-  🌍 **Freelancer** <br>
-  🔍 **Exploring New Technologies**
+ <h3 align="center"> 🚀 Professional Web Developer & DevOps Enthusiast ♾️ <br>
+  💼 Backend Engineer <br>
+  🌍 Freelancer <br>
+  🔍 Exploring New Technologies</h3>
 
 
 ---
