@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <h1 align="center">Hi 👋, I'm AYANABHA CHATTERJEE</h1>
-<p align="center">
+
   🚀 **Professional Web Developer & DevOps Enthusiast** ♾️ <br>
   💼 **Backend Engineer** <br>
   🌍 **Freelancer** <br>
   🔍 **Exploring New Technologies**
-</p>
+
 
 ---
 
