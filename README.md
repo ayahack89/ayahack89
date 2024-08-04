@@ -59,9 +59,8 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aygcoo&bg_color=000000&color=00b315&line=1f5d04&point=2bc002&area=true&hide_border=true" alt="aygcoo activity graph" /></p>
 
-[![Ayanabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aYgCOO)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayanabha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aYgCOO&bg_color=1a1a1a&color=00e626&line=028f00&point=00d604&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aygcoo&show_icons=true&locale=en&layout=compact&theme=dark" alt="aygcoo top languages" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygcoo&theme=dark" alt="aygcoo streak stats" /></p>
