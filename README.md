@@ -45,10 +45,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="50" height="50"/>
-</a>
-
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/> </a>
