@@ -17,7 +17,7 @@
 ---
 ### GitHub Trophy
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=aYgCOO&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ayahack89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -59,8 +59,8 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aygcoo&show_icons=true&locale=en&layout=compact&theme=dark" alt="aygcoo top languages" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygcoo&theme=dark" alt="aygcoo streak stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayahack89&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayahack89 top languages" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayahack89&theme=dark" alt="ayahack89 streak stats" /></p>
 
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
