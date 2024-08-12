@@ -56,9 +56,10 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.kali.org/images/kali-logo.png" alt="kali_linux" width="50" height="50"/>
-</a>
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="50" height="50"/> </a>
+</p>
+
+
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayahack89&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayahack89 top languages" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayahack89&theme=dark" alt="ayahack89 streak stats" /></p>
