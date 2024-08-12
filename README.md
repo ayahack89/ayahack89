@@ -57,7 +57,7 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/virtualbox.svg" alt="virtualbox_icon" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/VirtualBox_logo.svg/1024px-VirtualBox_logo.svg.png" alt="virtualbox_icon" width="50" height="50"/>
 </a>
 
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
