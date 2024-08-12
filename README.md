@@ -56,13 +56,9 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
-<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/virtualbox/virtualbox/main/doc/src/images/virtualbox.svg" alt="virtualbox_icon" width="50" height="50"/>
-</a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/ubuntu/ubuntu-logo/main/ubuntu-logo.svg" alt="ubuntu_icon" width="50" height="50"/>
+  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu_icon" width="50" height="50"/>
 </a>
-
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="50" height="50"/> </a>
 </p>
 
