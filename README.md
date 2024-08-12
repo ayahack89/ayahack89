@@ -56,6 +56,10 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/virtualbox.svg" alt="virtualbox_icon" width="50" height="50"/>
+</a>
+
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Ubuntu_logo_2019.svg" alt="ubuntu_icon" width="50" height="50"/>
 </a>
