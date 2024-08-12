@@ -66,6 +66,11 @@
 
 ---
 
+<a href="https://github.com/HARAJIT05"><img alt="Snake Gif" src="https://raw.githubusercontent.com/HARAJIT05/HARAJIT05/output/github-contribution-grid-snake-dark.svg"/></a>
+
+---
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayanabha88"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p>
+
 
