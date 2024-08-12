@@ -79,10 +79,8 @@
   <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" width="50" height="50"/>
 </a>
 
-![Docker](https://raw.githubusercontent.com/docker/brand/master/logo/vertical/black/docker-logo-vertical-black.png)
-![Kubernetes](https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png)
-
-
+ [Docker](https://www.docker.com/sites/default/files/d8/2020/docker-logo.png)
+[Kubernetes](https://kubernetes.io/images/kubernetes-horizontal-color.png)
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox_icon" width="50" height="50"/>
 </a>
