@@ -57,12 +57,12 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/VirtualBox_logo.svg/1024px-VirtualBox_logo.svg.png" alt="virtualbox_icon" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/virtualbox/virtualbox/main/doc/src/images/virtualbox.svg" alt="virtualbox_icon" width="50" height="50"/>
+</a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/ubuntu/ubuntu-logo/main/ubuntu-logo.svg" alt="ubuntu_icon" width="50" height="50"/>
 </a>
 
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Ubuntu_logo_2019.svg" alt="ubuntu_icon" width="50" height="50"/>
-</a>
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="50" height="50"/> </a>
 </p>
 
