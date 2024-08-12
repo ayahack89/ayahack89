@@ -8,6 +8,25 @@
   🔍 Exploring New Technologies</h3>
 
 
+## 🤝 Collaboration Opportunities
+I’m actively looking to collaborate on **Open Source Projects**.
+
+## 🤓 Expertise
+Feel free to ask me about **JavaScript**.
+
+## 📫 Contact
+You can reach me at [ayanabhachatterjee@gmail.com](mailto:ayanabhachatterjee@gmail.com).
+
+## 📚 Learning
+Currently delving into **Data Structures and Algorithms (DSA)**.
+
+## 🚀 Career Goals
+Aiming to become a **DevOps Engineer**.
+
+## 🌐 Portfolio
+Explore my work and projects at [my portfolio](https://portfolio-ayanabha.vercel.app/).
+
+
 <h3 align="left">About me:</h3>
 <p>I'm a passionate Web Developer with a solid foundation in both front-end and back-end technologies. I love creating web applications that are not just functional but also seamless, responsive, and visually appealing. Crafting solutions that deliver exceptional user experiences is my priority, and I enjoy tackling complex challenges to make that happen.</p>
 <p>Beyond my development skills, I'm well-versed in DevOps practices. I have a knack for managing codebase, keeping things clean and efficient, and using containerization to build scalable and maintainable deployments. I combine my technical know-how with an eye for detail, always striving to deliver top-notch, reliable web applications.</p>
@@ -28,7 +47,7 @@
 [![CodePen](https://img.shields.io/badge/CodePen-%23000000?logo=CodePen&logoColor=white&style=flat-square)](https://codepen.io/AYANABHA-CHATTERJEE)
 
 
----<h3 align="left">Top Skills:</h3>
+<h3 align="left">Top Skills:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
@@ -60,10 +79,12 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" width="50" height="50"/>
+</a>
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox_icon" width="50" height="50"/>
 </a>
-
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu_icon" width="50" height="50"/>
 </a>
