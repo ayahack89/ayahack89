@@ -8,18 +8,14 @@
   🔍 Exploring New Technologies</h3>
 
 
----
-
 <h3 align="left">About me:</h3>
 <p>I'm a passionate Web Developer with a solid foundation in both front-end and back-end technologies. I love creating web applications that are not just functional but also seamless, responsive, and visually appealing. Crafting solutions that deliver exceptional user experiences is my priority, and I enjoy tackling complex challenges to make that happen.</p>
 <p>Beyond my development skills, I'm well-versed in DevOps practices. I have a knack for managing codebase, keeping things clean and efficient, and using containerization to build scalable and maintainable deployments. I combine my technical know-how with an eye for detail, always striving to deliver top-notch, reliable web applications.</p>
 
----
 ### GitHub Trophy
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ayahack89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 
 <h3 align="left">Connect with me:</h3>
 
@@ -30,11 +26,6 @@
 [![X](https://img.shields.io/badge/X-%23000000?logo=Twitter&logoColor=white&style=flat-square)](https://x.com/AYANABHACH08)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white&style=flat-square)](https://youtube.com/@abha8853)
 [![CodePen](https://img.shields.io/badge/CodePen-%23000000?logo=CodePen&logoColor=white&style=flat-square)](https://codepen.io/AYANABHA-CHATTERJEE)
-
-
-
----
-
 
 
 ---<h3 align="left">Top Skills:</h3>
@@ -50,7 +41,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="msoffice" width="50" height="50"/> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="msoffice" width="50" height="50"/> </a>
 </p>
 
 <h3 align="left">Tools and Technologies:</h3>
@@ -84,10 +75,8 @@
 
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
----
 <a href="https://github.com/HARAJIT05"><img alt="Snake Gif" src="https://raw.githubusercontent.com/HARAJIT05/HARAJIT05/output/github-contribution-grid-snake-dark.svg"/></a>
 
----
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayanabha88"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p>
