@@ -57,10 +57,10 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.kali.org/images/kali_logo.png" alt="kali_linux" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kali_Linux_Logo.svg/1280px-Kali_Linux_Logo.svg.png" alt="kali_linux" width="50" height="50"/>
 </a>
 <a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.parrotsec.org/images/logo.png" alt="parrot_os" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Parrot_Logo.png" alt="parrot_os" width="50" height="50"/>
 </a>
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="50" height="50"/> </a>
 </p>
