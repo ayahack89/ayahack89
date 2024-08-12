@@ -62,11 +62,9 @@
 <a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer">
   <img src="https://www.parrotsec.org/images/parrot-logo.png" alt="parrot_os" width="50" height="50"/>
 </a>
-
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="50" height="50"/> </a>
-</p>
-
-
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="50" height="50"/>
+</a>
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayahack89&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayahack89 top languages" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayahack89&theme=dark" alt="ayahack89 streak stats" /></p>
