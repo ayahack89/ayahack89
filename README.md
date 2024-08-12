@@ -51,7 +51,7 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="50" height="50"/> </a>
-<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin" width="50" height="50"/> </a>
+<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpmyadmin" width="50" height="50"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="50" height="50"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/> </a>
