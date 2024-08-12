@@ -7,7 +7,6 @@
   🌍 Freelancer <br>
   🔍 Exploring New Technologies</h3>
 
-
 ## 🤝 Collaboration Opportunities
 I’m actively looking to collaborate on **Open Source Projects**.
 
@@ -25,6 +24,7 @@ Aiming to become a **DevOps Engineer**.
 
 ## 🌐 Portfolio
 Explore my work and projects at [my portfolio](https://portfolio-ayanabha.vercel.app/).
+
 
 
 <h3 align="left">About me:</h3>
