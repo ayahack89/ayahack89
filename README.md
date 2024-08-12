@@ -7,25 +7,27 @@
   🌍 Freelancer <br>
   🔍 Exploring New Technologies</h3>
 
-## 🤝 Collaboration Opportunities
+---
+
+### 🤝 Collaboration Opportunities
 I’m actively looking to collaborate on **Open Source Projects**.
 
-## 🤓 Expertise
+### 🤓 Expertise
 Feel free to ask me about **JavaScript**.
 
-## 📫 Contact
-You can reach me at [ayanabhachatterjee@gmail.com](mailto:ayanabhachatterjee@gmail.com).
+### 📫 Contact
+Reach me at [ayanabhachatterjee@gmail.com](mailto:ayanabhachatterjee@gmail.com).
 
-## 📚 Learning
-Currently delving into **Data Structures and Algorithms (DSA)**.
+### 📚 Currently Learning
+Delving into **Data Structures and Algorithms (DSA)**.
 
-## 🚀 Career Goals
+### 🚀 Career Aspiration
 Aiming to become a **DevOps Engineer**.
 
-## 🌐 Portfolio
-Explore my work and projects at [my portfolio](https://portfolio-ayanabha.vercel.app/).
+### 🌐 Check Out My Work
+Explore my projects and portfolio at [my portfolio](https://portfolio-ayanabha.vercel.app/).
 
-
+---
 
 <h3 align="left">About me:</h3>
 <p>I'm a passionate Web Developer with a solid foundation in both front-end and back-end technologies. I love creating web applications that are not just functional but also seamless, responsive, and visually appealing. Crafting solutions that deliver exceptional user experiences is my priority, and I enjoy tackling complex challenges to make that happen.</p>
