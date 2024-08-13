@@ -120,7 +120,7 @@
 
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ayahack89/ayahack89/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
