@@ -120,7 +120,7 @@
 
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-<a href="https://github.com/HARAJIT05"><img alt="Snake Gif" src="https://raw.githubusercontent.com/HARAJIT05/HARAJIT05/output/github-contribution-grid-snake-dark.svg"/></a>
+<a href="https://github.com/ayahack89"><img alt="Snake Gif" src="https://raw.githubusercontent.com/ayahack89/ayahack89/output/github-contribution-grid-snake-dark.svg"/></a>
 
 
 <h3 align="left">Support:</h3>
