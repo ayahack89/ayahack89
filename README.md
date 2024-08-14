@@ -119,10 +119,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayahack89&theme=dark" alt="ayahack89 streak stats" /></p>
 
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-
-![Snake animation](https://github.com/ayahack89/ayahack89/blob/output/github-contribution-grid-snake-dark.svg)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayahack89&&theme=synthwave&hide_border=true" alt="ayahack89" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayanabha88"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p>
