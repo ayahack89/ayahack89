@@ -2,10 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm AYANABHA CHATTERJEE</h1>
 
- <h3 align="center"> 🚀 Professional Web Developer & DevOps Enthusiast ♾️ <br>
-  💼 Backend Engineer <br>
-  🌍 Freelancer <br>
-  🔍 Exploring New Technologies</h3>
+ <h3 align="center">Professional Web Developer</h3>
 
 
 <h3>Overview</h3>
@@ -121,9 +118,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayahack89&theme=dark" alt="ayahack89 streak stats" /></p>
 
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-<a href="https://github.com/ayahack89">
+<!-- <a href="https://github.com/ayahack89">
     <img alt="Snake Gif" src="https://raw.githubusercontent.com/ayahack89/ayahack89/output/github-contribution-grid-snake-dark.svg"/>
-</a>
+</a> -->
 
 
 <h3 align="left">Support:</h3>
