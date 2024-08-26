@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm AYANABHA CHATTERJEE</h1>
 
- <h3 align="center">Professional Web Developer</h3>
+ <h3 align="center">Professional Software Developer</h3>
 
 
 <h3>Overview</h3>
@@ -17,12 +17,13 @@
 
 - 🚀 Aiming to become a **DevOps Engineer**.
 
+- 💭 Curious about **AI/ML**
+
 - 🌐 Explore my projects and portfolio at [my portfolio](https://portfolio-ayanabha.vercel.app/).
 
 
 <h3 align="left">About me:</h3>
-<p>I'm a passionate Web Developer with a solid foundation in both front-end and back-end technologies. I love creating web applications that are not just functional but also seamless, responsive, and visually appealing. Crafting solutions that deliver exceptional user experiences is my priority, and I enjoy tackling complex challenges to make that happen.</p>
-<p>Beyond my development skills, I'm well-versed in DevOps practices. I have a knack for managing codebase, keeping things clean and efficient, and using containerization to build scalable and maintainable deployments. I combine my technical know-how with an eye for detail, always striving to deliver top-notch, reliable web applications.</p>
+<p>Passionate <b>Software Developer</b> with strong expertise in backend technologies and over 2+ years of experience in creative projects. I am a quick learner, always eager to explore new technologies, with a basic knowledge of Android development. I am also enthusiastic about DevOps, managing codebase efficiently, and utilizing containerization for scalable deployments. Additionally, I am curious about AI/ML and enjoy tackling complex challenges to craft reliable and top-notch solutions.</p>
 
 ### GitHub Trophy
 
