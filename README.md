@@ -40,8 +40,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white&style=flat-square)](https://youtube.com/@abha8853)
 [![CodePen](https://img.shields.io/badge/CodePen-%23000000?logo=CodePen&logoColor=white&style=flat-square)](https://codepen.io/AYANABHA-CHATTERJEE)
 
-
-<h3 align="left">Top Skills:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
@@ -60,8 +58,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="msoffice" width="50" height="50"/> </a>
 </p>
-
-<h3 align="left">Tools and Technologies:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
@@ -81,6 +77,15 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="50" height="50"/>
 </a>
+<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
+    alt="electron"
+    width="50"
+    height="50"
+  />
+</a>
+
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
 </a>
