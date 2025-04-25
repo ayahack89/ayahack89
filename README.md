@@ -1,135 +1,97 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayahack89&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <h1 align="center">Hi 👋, I'm AYANABHA CHATTERJEE</h1>
+<h3 align="center">Professional Software Developer | Aspiring DevOps Engineer</h3>
 
- <h3 align="center">Professional Software Developer</h3>
-
-
-<h3>Overview</h3>
-
-- 🤝 I’m actively looking to collaborate on **Open Source Projects**.
-
-- 🤓 Feel free to ask me about **JavaScript**.
-
-- 📫 Reach me at [ayanabhachatterjee@gmail.com](mailto:ayanabhachatterjee@gmail.com).
-
-- 📚 Currently Learning **Data Structures and Algorithms (DSA)**.
-
-- 🚀 Aiming to become a **DevOps Engineer**.
-
-- 💭 Curious about **AI/ML**
-
-- 🌐 Explore my projects and portfolio at [my portfolio](https://portfolio-ayanabha.vercel.app/).
-
-
-<h3 align="left">About me:</h3>
-<p>Passionate <b>Software Developer</b> with strong expertise in backend technologies and over 2+ years of experience in creative projects. I am a quick learner, always eager to explore new technologies, with a basic knowledge of Android development. I am also enthusiastic about DevOps, managing codebase efficiently, and utilizing containerization for scalable deployments. Additionally, I am curious about AI/ML and enjoy tackling complex challenges to craft reliable and top-notch solutions.</p>
-
-### GitHub Trophy
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ayahack89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-<h3 align="left">Connect with me:</h3>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&style=flat-square)](https://instagram.com/a_vengeanc.e)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=LinkedIn&logoColor=white&style=flat-square)](https://linkedin.com/in/ayanabha-chatterjee-104979256)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?logo=Reddit&logoColor=white&style=flat-square)](https://reddit.com/user/Puzzle_Age555)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F48024?logo=Stack%20Overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/22493225)
-[![X](https://img.shields.io/badge/X-%23000000?logo=Twitter&logoColor=white&style=flat-square)](https://x.com/AYANABHACH08)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white&style=flat-square)](https://youtube.com/@abha8853)
-[![CodePen](https://img.shields.io/badge/CodePen-%23000000?logo=CodePen&logoColor=white&style=flat-square)](https://codepen.io/AYANABHA-CHATTERJEE)
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/> </a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="50" height="50"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="50" height="50"/>
-</a>
-<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/></a>
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="msoffice" width="50" height="50"/> </a>
-</p>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="50" height="50"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-</a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="50" height="50"/>
-</a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="50" height="50"/>
-</a>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
-    alt="electron"
-    width="50"
-    height="50"
-  />
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-</a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/>
-</a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/>
-</a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-</a>
-<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" width="50" height="50"/>
-</a>
-<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox_icon" width="50" height="50"/>
-</a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu_icon" width="50" height="50"/>
-</a>
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="50" height="50"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="50" height="50"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ayanabhachatterjee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/AYANABHACH08"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://youtube.com/@abha8853"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/22493225"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
+---
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayahack89&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayahack89 top languages" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayahack89&theme=dark" alt="ayahack89 streak stats" /></p>
+## 🚀 About Me
 
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-<!-- <a href="https://github.com/ayahack89">
-    <img alt="Snake Gif" src="https://raw.githubusercontent.com/ayahack89/ayahack89/output/github-contribution-grid-snake-dark.svg"/>
-</a> -->
+- 🔧 Software Developer with 2+ years of hands-on experience in backend development, scripting, and modern web technologies.
+- 🧠 Currently learning **Data Structures & Algorithms** to deepen my problem-solving skills.
+- 🐳 Exploring **DevOps** – Docker, Linux, CI/CD, and Kubernetes for scalable solutions.
+- 🧪 Curious about **AI/ML** and how intelligent systems shape the future.
+- 📬 Reach me at [ayanabhachatterjee@gmail.com](mailto:ayanabhachatterjee@gmail.com)
+- 🌐 Portfolio: [portfolio-ayanabha.vercel.app](https://portfolio-ayanabha.vercel.app)
 
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ayanabha88"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p>
+## 🛠️ Skills & Technologies
 
+### 👨‍💻 Languages & Frameworks
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+### 🧱 Tools & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### 🗃️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 **Machine Learning** – lightweight models and real-world applications
+- 🕸️ **Go (Golang)** – microservices and concurrency
+- 🛠️ **CI/CD Pipelines** – practical DevOps automation
+
+---
+
+## 🌟 Notable Projects
+
+| Project | Description |
+|--------|-------------|
+| [Time Capsule Post (LAMP)](https://github.com/ayahack89/time-capsule-post) | A social feature to share future-dated content on a LAMP-based platform. |
+| [SmartMediCard](https://github.com/ayahack89/SmartMediCard) | Medical record management system built with Django and Bootstrap. |
+| [Portfolio Website](https://portfolio-ayanabha.vercel.app) | Interactive portfolio showcasing work and skills. |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayahack89&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayahack89&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayahack89&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayahack89&theme=radical&no-frame=false&no-bg=true&margin-w=6" />
+</p>
+
+---
+
+> *“The only way to do great work is to love what you do.” – Steve Jobs*
