@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm AYANABHA CHATTERJEE</h1>
-<h3 align="center">Professional Software Developer | Aspiring DevOps Engineer</h3>
+<h3 align="center">Professional Software Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -17,8 +17,8 @@
 
 ## 🚀 About Me
 
-- 🔧 Software Developer with 2+ years of hands-on experience in backend development, scripting, and modern web technologies.
-- 🧠 Currently learning **Data Structures & Algorithms** to deepen my problem-solving skills.
+- 🔧 Software Developer with hands-on experience in backend development, scripting, and modern web technologies.
+- 🧠 Currently learning **C programming** to deepen my problem-solving skills.
 - 🐳 Exploring **DevOps** – Docker, Linux, CI/CD, and Kubernetes for scalable solutions.
 - 🧪 Curious about **AI/ML** and how intelligent systems shape the future.
 - 📬 Reach me at [ayanabhachatterjee@gmail.com](mailto:ayanabhachatterjee@gmail.com)
