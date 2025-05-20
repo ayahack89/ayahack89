@@ -116,7 +116,7 @@
 ## 🚀 Open Source Project
 
 ### 🐾 Local Hub – A Decentralized Developer Collaboration Platform  
-[![Local Hub](https://raw.githubusercontent.com/ayahack89/localhub/main/assets/local-hub-logo.png)](https://github.com/ayahack89/localhub)
+[![Local Hub](https://github.com/ayahack89/localhub/blob/main/assets/local-hub-logo.png?raw=true)](https://github.com/ayahack89/localhub)
 
 🔗 **GitHub:** [🖥️ LocalHub](https://github.com/ayahack89/localhub)
 
