@@ -19,9 +19,9 @@
 
 ## 🚀 About Me
 
-- 🔧 Software Developer with hands-on experience in backend development, scripting, and modern web technologies.
+- 🔧 Software Developer with hands-on experience in backend, web, and mobile development, along with scripting and modern web technologies.
 - 🧠 Currently learning **C programming** to deepen my problem-solving skills.
-- 🐳 Exploring **DevOps** – Docker, Linux, CI/CD, and Kubernetes for scalable solutions.
+- 📱 Exploring Mobile Development, Currently use Flutter to build cross-platform applications.
 - 🧪 Curious about **AI/ML** and how intelligent systems shape the future.
 - 📬 Reach me at [ayanabhachatterjee@gmail.com](mailto:ayanabhachatterjee@gmail.com)
 - 🌐 Portfolio: [portfolio-ayanabha.vercel.app](https://portfolio-ayanabha.vercel.app)
