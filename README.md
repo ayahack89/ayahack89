@@ -19,49 +19,83 @@
 
 ## 🚀 About Me
 
-- 🔧 Software Developer with hands-on experience in backend, web, and mobile development, along with scripting and modern web technologies.
+- 🔧 Software Developer with hands-on experience in backend, web, and mobile development.
 - 🧠 Currently learning **C programming** to deepen my problem-solving skills.
 - 📱 Exploring Mobile Development, Currently use Flutter to build cross-platform applications.
 - 🧪 Curious about **AI/ML** and how intelligent systems shape the future.
 - 📬 Reach me at [ayanabhachatterjee@gmail.com](mailto:ayanabhachatterjee@gmail.com)
 - 🌐 Portfolio: [portfolio-ayanabha.vercel.app](https://portfolio-ayanabha.vercel.app)
-
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 👨‍💻 Languages & Frameworks
+### 🌐 Web Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Languages & Frameworks**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-### 🧱 Tools & DevOps
+**Databases & Backend**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### 🗃️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Architecture**
+
+- 🧱 LAMP Stack (Linux, Apache, MySQL, PHP)
+
 ---
 
-## 📚 Currently Learning
+### 📱 Mobile Development
 
-- 🤖 **Machine Learning** – lightweight models and real-world applications
-- 🕸️ **Go (Golang)** – microservices and concurrency
-- 🛠️ **CI/CD Pipelines** – practical DevOps automation
+**Languages & Platforms**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+
+---
+
+### 🧪 Previously Used / Familiar With
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 📘 Currently Exploring
+
+- 📱 **Flutter** – learning cross-platform mobile development  
+- 🧠 **C Programming** – improving core coding logic  
+- ⚙️ **PHP** – focusing on backend and dynamic web apps  
+
+---
+
+### 🧰 Other Technologies & Skills
+
+- ✅ **Software Testing** – basic understanding of test cases and bug tracking  
+- ✅ **MS Office Tools** – Excel, Word, PowerPoint  
+- ✅ **Team Management** – experience collaborating in student/startup projects  
+- ✅ **Version Control** – Git, GitHub
 
 ---
 
