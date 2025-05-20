@@ -112,6 +112,30 @@
 
 ---
 
+---
+
+## 🚀 Open Source Project
+
+### 🐾 Local Hub – A Decentralized Developer Collaboration Platform  
+[![Local Hub](https://raw.githubusercontent.com/ayahack89/localhub/main/assets/logo.png)](https://github.com/ayahack89/localhub)
+
+🔗 **GitHub:** [github.com/ayahack89/localhub](https://github.com/ayahack89/localhub)
+
+**Local Hub** is an open-source initiative aimed at empowering developers by giving them complete control over their code, repositories, and collaboration.  
+Built with a strong focus on **privacy**, **security**, and **decentralization**, it allows users to securely store, view, and share code—without relying on centralized platforms.
+
+🛠️ **Key Highlights**:
+- 🔐 Privacy-focused and self-hostable
+- 🌐 Decentralized collaboration approach
+- 📁 Secure, private repository handling
+- 💬 A vision to create community-driven developer freedom
+
+🧪 **Status**: _Currently in the early stages — under active development._  
+We’re continuously improving the project and welcome contributions and feedback.
+
+---
+
+
 
 ## 📊 GitHub Stats
 
