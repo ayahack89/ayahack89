@@ -103,11 +103,16 @@
 
 | Project | Description |
 |--------|-------------|
-| [Time Capsule Post (LAMP)](https://github.com/ayahack89/time-capsule-post) | A social feature to share future-dated content on a LAMP-based platform. |
-| [SmartMediCard](https://github.com/ayahack89/SmartMediCard) | Medical record management system built with Django and Bootstrap. |
-| [Portfolio Website](https://portfolio-ayanabha.vercel.app) | Interactive portfolio showcasing work and skills. |
+| [📽️ VFLix](https://github.com/ayahack89/VFLix.web) | A static clone of Netflix focused on creating a professional UI and responsive design. Built to sharpen frontend layout and styling skills. |
+| [🛒 Venus](https://github.com/ayahack89/Venus) | A frontend-only eCommerce store designed to demonstrate modern UI principles and product display, replicating a realistic shopping platform. |
+| [🔐 ELocker](https://github.com/ayahack89/ELocker) | A secure password manager built with PHP and encryption techniques. Full-stack application showcasing backend logic and data protection. |
+| [📊 Tech.Care](https://github.com/ayahack89/tech.care) | An online health care portal highlighting use of JavaScript, JSON APIs, `fetch()`, and Chart.js to render and visualize real-time data. |
+| [🕒 Time Capsule Post](https://github.com/ayahack89/time-capsule-post) | A LAMP-based social feature that allows users to post content set to appear in the future. Implements scheduling logic and session management. |
+| [💳 SmartMediCard](https://github.com/ayahack89/SmartMediCard) | A Django-based medical record management system with Bootstrap UI. Designed to securely manage patient data in a clean dashboard. |
+| [🌐 Portfolio Website](https://portfolio-ayanabha.vercel.app) | A responsive personal portfolio showcasing your skills, projects, and contact info. Built to reflect your frontend development and design abilities. |
 
 ---
+
 
 ## 📊 GitHub Stats
 
