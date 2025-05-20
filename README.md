@@ -6,11 +6,11 @@
 <h3 align="center">Professional Software Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ayanabhachatterjee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/AYANABHACH08"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://youtube.com/@abha8853"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/Puzzle_Age555">
+  <a href="https://x.com/AYANABHACH08" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://youtube.com/@abha8853" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" />
 </a>
 </p>
