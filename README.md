@@ -20,9 +20,9 @@
 ## 🚀 About Me
 
 - 🔧 Software Developer with hands-on experience in backend, web, and mobile development.
-- 🧠 Currently learning **C programming** to deepen my problem-solving skills.
+- 🧠 Currently learning C programming to deepen my problem-solving skills.
 - 📱 Exploring Mobile Development, Currently use Flutter to build cross-platform applications.
-- 🧪 Curious about **AI/ML** and how intelligent systems shape the future.
+- 🧪 Curious about AI/ML and how intelligent systems shape the future.
 - 📬 Reach me at [ayanabhachatterjee@gmail.com](mailto:ayanabhachatterjee@gmail.com)
 - 🌐 Portfolio: [portfolio-ayanabha.vercel.app](https://portfolio-ayanabha.vercel.app)
 ---
@@ -108,7 +108,6 @@
 | [🔐 ELocker](https://github.com/ayahack89/ELocker) | A secure password manager built with PHP and encryption techniques. Full-stack application showcasing backend logic and data protection. |
 | [📊 Tech.Care](https://github.com/ayahack89/tech.care) | An online health care portal highlighting use of JavaScript, JSON APIs, `fetch()`, and Chart.js to render and visualize real-time data. |
 | [🕒 Time Capsule Post](https://github.com/ayahack89/time-capsule-post) | A LAMP-based social feature that allows users to post content set to appear in the future. Implements scheduling logic and session management. |
-| [💳 SmartMediCard](https://github.com/ayahack89/SmartMediCard) | A Django-based medical record management system with Bootstrap UI. Designed to securely manage patient data in a clean dashboard. |
 | [🌐 Portfolio Website](https://portfolio-ayanabha.vercel.app) | A responsive personal portfolio showcasing your skills, projects, and contact info. Built to reflect your frontend development and design abilities. |
 
 ---
