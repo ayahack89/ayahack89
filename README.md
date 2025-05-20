@@ -10,7 +10,9 @@
   <a href="mailto:ayanabhachatterjee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/AYANABHACH08"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://youtube.com/@abha8853"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/22493225"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/Puzzle_Age555">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" />
+</a>
 </p>
 
 ---
