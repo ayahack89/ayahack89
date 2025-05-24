@@ -6,14 +6,26 @@
 <h3 align="center">Professional Software Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ayanabhachatterjee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/AYANABHACH08" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://youtube.com/@abha8853" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayanabhachatterjee@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/AYANABHACH08" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@abha8853" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1340353196245127270" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -107,7 +119,7 @@
 | [🛒 Venus](https://github.com/ayahack89/Venus) | A frontend-only eCommerce store designed to demonstrate modern UI principles and product display, replicating a realistic shopping platform. |
 | [🔐 ELocker](https://github.com/ayahack89/ELocker) | A secure password manager built with PHP and encryption techniques. Full-stack application showcasing backend logic and data protection. |
 | [📊 Tech.Care](https://github.com/ayahack89/tech.care) | An online health care portal highlighting use of JavaScript, JSON APIs, `fetch()`, and Chart.js to render and visualize real-time data. |
-| [🕒 Time Capsule Post](https://github.com/ayahack89/time-capsule-post) | A LAMP-based social feature that allows users to post content set to appear in the future. Implements scheduling logic and session management. |
+<!-- | [🕒 Time Capsule Post](https://github.com/ayahack89/time-capsule-post) | A LAMP-based social feature that allows users to post content set to appear in the future. Implements scheduling logic and session management. | -->
 | [🌐 Portfolio Website](https://portfolio-ayanabha.vercel.app) | A responsive personal portfolio showcasing your skills, projects, and contact info. Built to reflect your frontend development and design abilities. |
 
 ---
