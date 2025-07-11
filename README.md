@@ -43,7 +43,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img align="right" height="250" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+  <img align="right" height="130" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
 
 ```typescript
