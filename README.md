@@ -15,7 +15,7 @@
   <a href="https://x.com/AYANABHACH08" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@abha8853" target="_blank">
+  <a href="https://youtube.com/@MidnightOxp2p" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank">
