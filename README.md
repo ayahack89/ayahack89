@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ayanabha+Chatterjee;Professional+Software+Developer;Backend+%26+Full+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Ayanabha+Chatterjee;Professional+Software+Developer;Backend+%26+Full+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+%26+Building!" alt="Typing SVG"/>
 </h1>
 
 <div align="center">
@@ -42,9 +42,9 @@
 
 ## 🚀 About Me
 
-<div align="center">
+<!-- <div align="center">
   <img align="right" height="130" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
-</div>
+</div> -->
 
 ```typescript
 const ayanabha = {
