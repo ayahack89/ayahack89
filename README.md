@@ -168,7 +168,7 @@ We’re continuously improving the project and welcome contributions and feedbac
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayahack89&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayahack89&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ayahack89&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
