@@ -42,10 +42,6 @@
 
 ## 🚀 About Me
 
-<!-- <div align="center">
-  <img align="right" height="130" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
-</div> -->
-
 ```typescript
 const ayanabha = {
   name: "Ayanabha Chatterjee",
@@ -60,7 +56,7 @@ const ayanabha = {
   },
   
   currentFocus: [
-    "🧠 Problem-solving with C programming",
+    "🧠 Problem-solving with Dart programming",
     "📱 Cross-platform mobile development with Flutter",
     "🤖 AI/ML and intelligent systems",
     "🌐 Full-stack web applications"
@@ -70,8 +66,6 @@ const ayanabha = {
   contact: "ayanabhachatterjee@gmail.com"
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -184,8 +178,8 @@ const ayanabha = {
         <br/>Python
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
-        <br/>C
+        <img src="https://skillicons.dev/icons?i=cursor" width="48" height="48" alt="Cursor AI"/>
+        <br/>Cursor AI
       </td>
     </tr>
     <tr>
@@ -202,8 +196,8 @@ const ayanabha = {
         <br/>Postman
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
-        <br/>Figma
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="CapCut"/>
+        <br/>CapCut
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
@@ -291,29 +285,41 @@ const ayanabha = {
         <p><strong>Tech:</strong> JavaScript, Chart.js, HTML, CSS</p>
       </td>
     </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🛒 Venus - eCommerce Frontend</h3>
+        <p>
+          <a href="https://github.com/ayahack89/Venus">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Modern eCommerce Store Interface</strong></p>
+        <ul>
+          <li>🛍️ Professional eCommerce UI design</li>
+          <li>📱 Responsive layout for all devices</li>
+          <li>🎨 Modern product display interface</li>
+          <li>⚡ Fast and intuitive user experience</li>
+        </ul>
+        <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🌐 Personal Portfolio</h3>
+        <p>
+          <a href="https://portfolio-ayanabha.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Professional Portfolio Website</strong></p>
+        <ul>
+          <li>💼 Professional skills showcase</li>
+          <li>📂 Comprehensive project portfolio</li>
+          <li>🎯 Interactive user experience</li>
+          <li>🚀 Optimized for performance</li>
+        </ul>
+        <p><strong>Tech:</strong> HTML, CSS, JavaScript | <strong>Deployed:</strong> Vercel</p>
+      </td>
+    </tr>
   </table>
-</div>
-
-<div align="center">
-  <h3>🛒 Venus - eCommerce Frontend</h3>
-  <p>
-    <a href="https://github.com/ayahack89/Venus">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    </a>
-  </p>
-  <p><strong>Modern eCommerce Store Interface</strong> | Professional UI design with responsive layout and modern product display</p>
-  <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
-</div>
-
-<div align="center">
-  <h3>🌐 Personal Portfolio</h3>
-  <p>
-    <a href="https://portfolio-ayanabha.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-  </p>
-  <p><strong>Professional Portfolio Website</strong> | Showcasing skills, projects, and professional experience</p>
-  <p><strong>Tech:</strong> HTML, CSS, JavaScript | <strong>Deployed:</strong> Vercel</p>
 </div>
 
 ---
@@ -388,8 +394,8 @@ const ayanabha = {
   <table>
     <tr>
       <td align="center" width="25%">
-        <h4>🧠 Problem Solving</h4>
-        <p>Strengthening algorithmic thinking with C programming</p>
+        <h4>🧠 Dart Programming</h4>
+        <p>Strengthening mobile development skills with advanced Dart programming</p>
       </td>
       <td align="center" width="25%">
         <h4>📱 Flutter Mastery</h4>
