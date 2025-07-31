@@ -19,9 +19,9 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="margin: 10px;" />
   </a>
 
-  <!-- X (Twitter) -->
-  <a href="https://x.com/ayanabha08" target="_blank" title="X">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="40" height="40" style="margin: 10px;" />
+
+  <a href="https://x.com/ayanabha08" target="_blank" title="X (Twitter)">
+    <img src="https://img.icons8.com/ios-filled/48/1DA1F2/twitterx--v2.png" width="48" style="margin: 10px;" />
   </a>
 
   <!-- YouTube -->
@@ -39,12 +39,11 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40" height="40" style="margin: 10px;" />
   </a>
 
-  <!-- Portfolio -->
-  <a href="https://portfolio-ayanabha.vercel.app" target="_blank" title="Portfolio">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="40" height="40" style="margin: 10px;" />
+ <a href="https://portfolio-ayanabha.vercel.app" target="_blank" title="Portfolio">
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/48/external-portfolio-resume-flatart-icons-outline-flatarticons.png" width="48" style="margin: 10px;" />
   </a>
-
 </div>
+
 
 
 
