@@ -39,10 +39,11 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
     <img src="https://img.icons8.com/color/48/discord-logo.png" width="40" style="margin: 10px;" />
   </a>
 
- <!-- Portfolio -->
+<!-- Portfolio -->
 <a href="https://portfolio-ayanabha.vercel.app" target="_blank" title="Portfolio">
-  <img src="https://img.icons8.com/ios/50/resume.png" width="40" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/briefcase.png" width="40" style="margin: 10px;" />
 </a>
+
 
 </div>
 
