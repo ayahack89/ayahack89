@@ -18,10 +18,12 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
   <a href="mailto:ayanabhachatterjee@gmail.com" target="_blank" title="Gmail">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" style="margin: 10px;" />
   </a>
+  
 <!-- Twitter / X -->
 <a href="https://x.com/ayanabha08" target="_blank" title="X (formerly Twitter)">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="40" style="margin: 10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/x--v1.png" width="40" style="margin: 10px; background-color: #000000; border-radius: 8px; padding: 5px;" />
 </a>
+
 
 
   <!-- YouTube -->
