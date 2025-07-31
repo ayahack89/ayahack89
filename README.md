@@ -7,37 +7,38 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
 
 ## Let's Connect
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
 
   <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" style="margin: 10px; border-radius: 50%;" />
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" width="48" style="margin: 10px;" />
   </a>
 
   <a href="mailto:ayanabhachatterjee@gmail.com" title="Gmail">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" style="margin: 10px; border-radius: 50%;" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" style="margin: 10px;" />
   </a>
 
-  <a href="https://x.com/ayanabha08" target="_blank" title="X">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v2.png" width="50" height="50" style="margin: 10px; border-radius: 50%;" />
+  <a href="https://x.com/ayanabha08" target="_blank" title="X (Twitter)">
+    <img src="https://img.icons8.com/ios-filled/48/1DA1F2/twitterx--v2.png" width="48" style="margin: 10px;" />
   </a>
 
   <a href="https://youtube.com/@MidnightOx8" target="_blank" title="YouTube">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="50" height="50" style="margin: 10px; border-radius: 50%;" />
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="48" style="margin: 10px;" />
   </a>
 
   <a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank" title="Reddit">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" width="50" height="50" style="margin: 10px; border-radius: 50%;" />
+    <img src="https://img.icons8.com/fluency/48/reddit.png" width="48" style="margin: 10px;" />
   </a>
 
   <a href="https://discord.com/users/1340353196245127270" target="_blank" title="Discord">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="50" height="50" style="margin: 10px; border-radius: 50%;" />
+    <img src="https://img.icons8.com/color/48/discord--v2.png" width="48" style="margin: 10px;" />
   </a>
 
   <a href="https://portfolio-ayanabha.vercel.app" target="_blank" title="Portfolio">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="50" height="50" style="margin: 10px; border-radius: 50%;" />
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/48/external-portfolio-resume-flatart-icons-outline-flatarticons.png" width="48" style="margin: 10px;" />
   </a>
 
 </div>
+
 
 
 
