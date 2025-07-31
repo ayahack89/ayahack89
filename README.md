@@ -5,30 +5,29 @@ Being a nerd guy with a deep interest in building things on the internet quickly
 
 Right now, I’m exploring AI not just using tools, but learning how the models actually work and seeking new ideas to implement in the real world. I’m also working on mobile development (at a beginner stage) to expand my skills. I like to experiment, learn by doing, and bring projects to life whether it’s something for work or a side idea I’m passionate about.
 
-<p align="center">
-  <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ayanabhachatterjee@gmail.com" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://x.com/ayanabha08" target="_blank" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://youtube.com/@MidnightOx8" target="_blank" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/YouTube-SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
-  <a href="https://discord.com/users/1340353196245127270" target="_blank" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://portfolio-ayanabha.vercel.app" target="_blank" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
+<p align="center"\>
+<a href="[https://linkedin.com/in/ayanabha-chatterjee-104979256](https://linkedin.com/in/ayanabha-chatterjee-104979256)" target="\_blank" style="margin: 0 5px;"\>
+<img src="[https://i.imgur.com/your\_linkedin\_icon.png](https://www.google.com/search?q=https://i.imgur.com/your_linkedin_icon.png)" alt="LinkedIn"/\>
+</a\>
+<a href="mailto:ayanabhachatterjee@gmail.com" style="margin: 0 5px;"\>
+<img src="[https://i.imgur.com/your\_gmail\_icon.png](https://www.google.com/search?q=https://i.imgur.com/your_gmail_icon.png)" alt="Gmail"/\>
+</a\>
+<a href="[https://x.com/ayanabha08](https://x.com/ayanabha08)" target="\_blank" style="margin: 0 5px;"\>
+<img src="[https://i.imgur.com/your\_x\_icon.png](https://www.google.com/search?q=https://i.imgur.com/your_x_icon.png)" alt="X"/\>
+</a\>
+<a href="[https://youtube.com/@MidnightOx8](https://youtube.com/@MidnightOx8)" target="\_blank" style="margin: 0 5px;"\>
+<img src="[https://i.imgur.com/your\_youtube\_icon.png](https://www.google.com/search?q=https://i.imgur.com/your_youtube_icon.png)" alt="YouTube"/\>
+</a\>
+<a href="[https://www.reddit.com/user/Puzzle\_Age555](https://www.reddit.com/user/Puzzle_Age555)" target="\_blank" style="margin: 0 5px;"\>
+<img src="[https://i.imgur.com/your\_reddit\_icon.png](https://www.google.com/search?q=https://i.imgur.com/your_reddit_icon.png)" alt="Reddit"/\>
+</a\>
+<a href="[https://discord.com/users/1340353196245127270](https://discord.com/users/1340353196245127270)" target="\_blank" style="margin: 0 5px;"\>
+<img src="[https://i.imgur.com/your\_discord\_icon.png](https://www.google.com/search?q=https://i.imgur.com/your_discord_icon.png)" alt="Discord"/\>
+</a\>
+<a href="[https://portfolio-ayanabha.vercel.app](https://portfolio-ayanabha.vercel.app)" target="\_blank" style="margin: 0 5px;"\>
+<img src="[https://i.imgur.com/your\_portfolio\_icon.png](https://www.google.com/search?q=https://i.imgur.com/your_portfolio_icon.png)" alt="Portfolio"/\>
+</a\>
+</p\>
 
 
 
