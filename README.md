@@ -1,5 +1,5 @@
 # Hi, I'm Ayanabha Chatterjee
-## Professional Software Developer | Indie Hacker | Innovator | Freelancer
+## Professional Software Developer • Indie Hacker • Innovator • Freelancer
 
 Being a nerd guy with a deep interest in building things on the internet quickly turned into a focused journey. I started the journey with passion and have now become a professional. I began with frontend development, then moved into backend to understand how everything works behind the scenes. Over time, I learned both and started building multiple full-stack projects. I’ve worked on several innovative ideas that solve real-world problems, always with real users, and I'm still looking for better ideas to build and solve real issues.
 
@@ -7,7 +7,6 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
 
 ## Let's Connect
 
-<div align="center">
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank" title="LinkedIn">
@@ -48,7 +47,7 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
 </a>
 
 
-</div>
+
 
 
 
