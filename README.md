@@ -37,11 +37,11 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
 **You can explore one of the top projects pinned in my profile below or even contribute to my [open-source GitHub repository](http://www.github.com/ayahack89/termino). I’m also running a VS Code extension, **Termino**, which you can install directly from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ayanabhachatterjee.termino). It already has real users, so give it a try and help me make it even better!**
 
 
-## 24/7 active on X(Twitte) to collaborate, hit me up with a DM!  
+## Active on X(Twitte) to collaborate, hit me up with a dm!  
 For professional proposals and freelancing requests, email me at **ayanabhachatterjee@gmail.com**
 
 ___
 
 <div align="center">
-  <em>"Build in silence, engage in public."</em>
+  <em>Build in silence, engage in public.</em>
 </div>
