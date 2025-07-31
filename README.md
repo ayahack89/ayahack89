@@ -5,8 +5,6 @@ Being a nerd guy with a deep interest in building things on the internet quickly
 
 Right now, I’m exploring AI not just using tools, but learning how the models actually work and seeking new ideas to implement in the real world. I’m also working on mobile development (at a beginner stage) to expand my skills. I like to experiment, learn by doing, and bring projects to life whether it’s something for work or a side idea I’m passionate about.
 
-## let's connect
-
 <p align="center">
   <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
