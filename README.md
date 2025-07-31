@@ -33,7 +33,7 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
 
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank" title="Reddit">
-    <img src="https://img.icons8.com/fluency/48/reddit.png" width="40" style="margin: 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" width="40" height="40" style="margin: 10px;" />
   </a>
 
   <!-- Discord -->
