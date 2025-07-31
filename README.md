@@ -1,1 +1,39 @@
-Ayanabha Chatterjee<p align="center"><a href="https://linkedin.com/in/ayanabha-chatterjee-104979256">LinkedIn</a> •<a href="https://x.com/AYANABHACH08">Twitter</a> •<a href="https://portfolio-ayanabha.vercel.app">Portfolio</a> •<a href="mailto:ayanabhachatterjee@gmail.com">Email</a></p>OverviewI am a Software Developer specializing in backend and full-stack development, with proficiency in PHP, Django, and the LAMP stack. My experience also extends to cross-platform mobile development using Flutter and Dart. I am passionate about building robust, efficient applications and contributing to the open-source community. My current focus is on tackling challenging problems and developing innovative software solutions.Top ProjectsHere are some of the key projects I've worked on.ProjectDescriptionRepositoryLocalHubA decentralized and privacy-focused collaboration platform for developers. Designed to be self-hostable and community-driven.ayahack89/localhubELockerA secure password manager built with PHP and MySQL, featuring advanced encryption and a user-friendly interface for safe credential storage.ayahack89/ELockerVFLixA front-end clone of the Netflix UI, focusing on a professional, responsive design and modern CSS animations for an enhanced user experience.ayahack89/VFLix.webTech.CareA healthcare portal that provides real-time data visualization and analytics using Chart.js, designed for online health management.ayahack89/tech.careLet's CollaborateI am always open to discussing new projects, exploring collaboration opportunities, or connecting with other developers. If you have an interesting idea or just want to connect, please feel free to reach out. Let's build something amazing together.
+# Ayanabha Chatterjee
+
+Software Developer | Backend & Full Stack Enthusiast
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayanabha-chatterjee-104979256)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayanabhachatterjee@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AYANABHACH08)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-ayanabha.vercel.app)
+
+## Overview
+
+I'm a software developer based in India with expertise in backend development and full-stack web applications. I specialize in PHP, Django, and the LAMP stack, with experience in mobile development using Flutter and Dart. Currently exploring modern web technologies and AI/ML integration while contributing to open-source projects.
+
+**Core Technologies:** PHP, JavaScript, Django, MySQL, Flutter, Dart, HTML5, CSS3
+
+**Current Focus:** Cross-platform mobile development, full-stack web applications, and building decentralized developer platforms
+
+## Featured Projects
+
+### [LocalHub](https://github.com/ayahack89/localhub)
+Decentralized Developer Collaboration Platform - Privacy-focused and self-hostable solution for secure, private repository handling and community-driven developer collaboration.
+
+### [ELocker](https://github.com/ayahack89/ELocker)
+Secure Password Manager - Advanced encryption-based password storage system with user-friendly interface and password strength analysis. Built with PHP and MySQL.
+
+### [VFLix](https://github.com/ayahack89/VFLix.web)
+Netflix Clone - Professional streaming interface with responsive design and modern CSS animations. Demonstrates advanced frontend development skills.
+
+### [Tech.Care](https://github.com/ayahack89/tech.care)
+Healthcare Portal - Healthcare management system with real-time data visualization, interactive charts, and JSON API integration using Chart.js.
+
+### [Venus](https://github.com/ayahack89/Venus)
+eCommerce Frontend - Modern online store interface with responsive design and intuitive user experience for product display and shopping functionality.
+
+---
+
+**Open to collaboration on innovative projects and new opportunities. Let's build something impactful together.**
