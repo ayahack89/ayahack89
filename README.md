@@ -7,15 +7,18 @@
 
 **Let's Connect**
 
-<p>
-  <strong><a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank">LinkedIn</a></strong><br>
-  <strong><a href="mailto:ayanabhachatterjee@gmail.com" target="_blank">Gmail</a></strong><br>
-  <strong><a href="https://x.com/ayanabha08" target="_blank">Twitter / X</a></strong><br>
-  <strong><a href="https://youtube.com/@MidnightOx8" target="_blank">YouTube</a></strong><br>
-  <strong><a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank">Reddit</a></strong><br>
-  <strong><a href="https://discord.com/users/1340353196245127270" target="_blank">Discord</a></strong><br>
-  <strong><a href="https://portfolio-ayanabha.vercel.app" target="_blank">Portfolio</a></strong>
-</p>
+<ul style="line-height: 1.8; list-style: none; padding-left: 0;">
+  <li>Connect with me professionally on <strong><a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank">LinkedIn</a></strong></li>
+  <li>Reach out via <strong><a href="mailto:ayanabhachatterjee@gmail.com" target="_blank">Gmail</a></strong></li>
+  <li>Follow my thoughts and updates on <strong><a href="https://x.com/ayanabha08" target="_blank">X (Twitter)</a></strong></li>
+  <li>Explore my creative videos on <strong><a href="https://youtube.com/@MidnightOx8" target="_blank">YouTube</a></strong></li>
+  <li>Join my discussions and ideas on <strong><a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank">Reddit</a></strong></li>
+  <li> Let's chat and collaborate on <strong><a href="https://discord.com/users/1340353196245127270" target="_blank">Discord</a></strong></li>
+  <li>See my work and projects on <strong><a href="https://portfolio-ayanabha.vercel.app" target="_blank">Portfolio</a></strong></li>
+</ul>
+
+
+
 
 
 
