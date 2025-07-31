@@ -1,56 +1,39 @@
 # Ayanabha Chatterjee
 
-**Software Developer | Backend & Full Stack Enthusiast**
+Software Developer | Backend & Full Stack Enthusiast
 
----
+## Connect with me
 
-## Connect with Me
-
-[LinkedIn](https://linkedin.com/in/ayanabha-chatterjee-104979256) •  
-[Gmail](mailto:ayanabhachatterjee@gmail.com) •  
-[X (Twitter)](https://x.com/AYANABHACH08) •  
-[Portfolio](https://portfolio-ayanabha.vercel.app)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayanabha-chatterjee-104979256)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayanabhachatterjee@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AYANABHACH08)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-ayanabha.vercel.app)
 
 ## Overview
 
-I’m a dedicated software developer based in India, passionate about building scalable backend systems and intuitive full-stack applications. My experience spans across PHP, Django, and the LAMP stack, with growing expertise in Flutter-based mobile development.
+I'm a software developer based in India with expertise in backend development and full-stack web applications. I specialize in PHP, Django, and the LAMP stack, with experience in mobile development using Flutter and Dart. Currently exploring modern web technologies and AI/ML integration while contributing to open-source projects.
 
-I focus on delivering reliable solutions with clean architecture and practical design — keeping performance, security, and user experience at the forefront.
+**Core Technologies:** PHP, JavaScript, Django, MySQL, Flutter, Dart, HTML5, CSS3
 
-**Languages & Frameworks:** PHP, JavaScript, Dart, Flutter, Python (Django), MySQL, HTML5, CSS3  
-**Current Interests:** Cross-platform app development, decentralized platforms, AI/ML integration, and clean developer tooling.
-
----
+**Current Focus:** Cross-platform mobile development, full-stack web applications, and building decentralized developer platforms
 
 ## Featured Projects
 
-### 🔹 [LocalHub](https://github.com/ayahack89/localhub)
-**Decentralized Developer Collaboration Platform**  
-A privacy-focused, self-hostable platform for secure repository management and peer collaboration.
+### [LocalHub](https://github.com/ayahack89/localhub)
+Decentralized Developer Collaboration Platform - Privacy-focused and self-hostable solution for secure, private repository handling and community-driven developer collaboration.
 
-### 🔹 [ELocker](https://github.com/ayahack89/ELocker)
-**Secure Password Manager**  
-A robust encryption-based password vault with strength analysis and user-focused design.
+### [ELocker](https://github.com/ayahack89/ELocker)
+Secure Password Manager - Advanced encryption-based password storage system with user-friendly interface and password strength analysis. Built with PHP and MySQL.
 
-### 🔹 [VFLix](https://github.com/ayahack89/VFLix.web)
-**Streaming Platform UI (Netflix Clone)**  
-Modern, responsive frontend demonstrating professional-level CSS design and layout strategy.
+### [VFLix](https://github.com/ayahack89/VFLix.web)
+Netflix Clone - Professional streaming interface with responsive design and modern CSS animations. Demonstrates advanced frontend development skills.
 
-### 🔹 [Tech.Care](https://github.com/ayahack89/tech.care)
-**Healthcare Management Portal**  
-Real-time data visualization and Chart.js integrations for medical systems and reports.
+### [Tech.Care](https://github.com/ayahack89/tech.care)
+Healthcare Portal - Healthcare management system with real-time data visualization, interactive charts, and JSON API integration using Chart.js.
 
-### 🔹 [Venus](https://github.com/ayahack89/Venus)
-**eCommerce Frontend**  
-Responsive online store UI with a seamless, intuitive shopping experience.
+### [Venus](https://github.com/ayahack89/Venus)
+eCommerce Frontend - Modern online store interface with responsive design and intuitive user experience for product display and shopping functionality.
 
 ---
 
-## Let’s Connect & Build
-
-I'm always looking to connect with developers, contributors, or anyone working on something impactful. If you're working on something meaningful — open-source or professional — feel free to reach out.  
-Let's build better tech together.
-
----
+**Open to collaboration on innovative projects and new opportunities. Let's build something impactful together.**
