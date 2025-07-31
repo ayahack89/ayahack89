@@ -51,5 +51,5 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
 
 
 Active on x(twitter) to collaborate, hit me up with a dm!  
-For professional proposals and freelancing requests, [email me](ayanabhachatterjee@gmail.com)
+For professional proposals and freelancing requests, [email me](mailto:ayanabhachatterjee@gmail.com)
 
