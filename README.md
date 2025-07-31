@@ -1,4 +1,4 @@
-# 🪐.ayanabha 
+# 🪐.Ayanabha Chatterjee 
 ## Professional Software Developer • Indie Hacker • Innovator • Freelancer
 
 Being a nerd guy with a deep interest in building things on the internet quickly turned into a focused journey. I started the journey with passion and have now become a professional. I began with frontend development, then moved into backend to understand how everything works behind the scenes. Over time, I learned both and started building multiple full-stack projects. I’ve worked on several innovative ideas that solve real-world problems, always with real users, and I'm still looking for better ideas to build and solve real issues.
