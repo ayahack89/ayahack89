@@ -25,11 +25,11 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
   </a>
 
 
-
-  <!-- YouTube -->
+<!-- YouTube -->
 <a href="https://youtube.com/@MidnightOx8" target="_blank" title="YouTube">
-  <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" style="margin: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" style="margin: 10px; border-radius: 10px;" />
 </a>
+
 
 
   <!-- Reddit -->
