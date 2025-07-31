@@ -8,26 +8,26 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
 ## let's connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.1.0/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://linkedin.com/in/ayanabha-chatterjee-104979256" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ayanabhachatterjee@gmail.com" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.1.0/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  <a href="mailto:ayanabhachatterjee@gmail.com" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://x.com/ayanabha08" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.1.0/icons/x.svg" alt="X" width="40" height="40"/>
+  <a href="https://x.com/ayanabha08" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://youtube.com/@MidnightOx8" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.1.0/icons/youtube.svg" alt="YouTube" width="40" height="40"/>
+  <a href="https://youtube.com/@MidnightOx8" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/YouTube-SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.1.0/icons/reddit.svg" alt="Reddit" width="40" height="40"/>
+  <a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
-  <a href="https://discord.com/users/1340353196245127270" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.1.0/icons/discord.svg" alt="Discord" width="40" height="40"/>
+  <a href="https://discord.com/users/1340353196245127270" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://portfolio-ayanabha.vercel.app" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.1.0/icons/vercel.svg" alt="Portfolio" width="40" height="40"/>
+  <a href="https://portfolio-ayanabha.vercel.app" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
