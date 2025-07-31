@@ -27,9 +27,10 @@ Right now, I’m exploring AI not just using tools, but learning how the models 
 
 
   <!-- YouTube -->
-  <a href="https://youtube.com/@MidnightOx8" target="_blank" title="YouTube">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" width="40" style="margin: 10px;" />
-  </a>
+<a href="https://youtube.com/@MidnightOx8" target="_blank" title="YouTube">
+  <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" style="margin: 10px;" />
+</a>
+
 
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/Puzzle_Age555" target="_blank" title="Reddit">
