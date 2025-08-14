@@ -1,9 +1,9 @@
  
 ## Software Developer • Indie Hacker • Innovator • Freelancer
 
-<p style="style="font-family: 'Georgia', 'Times New Roman', serif;"> Being a nerd guy with a deep interest in building things on the internet quickly turned into a focused journey. I started the journey with passion and have now become a professional. I began with frontend development, then moved into backend to understand how everything works behind the scenes. Over time, I learned both and started building multiple full-stack projects. I’ve worked on several innovative ideas that solve real-world problems, always with real users, and I'm still looking for better ideas to build and solve real issues.**
+ <p style="font-family: 'Georgia', 'Times New Roman', serif;">Being a nerd guy with a deep interest in building things on the internet quickly turned into a focused journey. I started the journey with passion and have now become a professional. I began with frontend development, then moved into backend to understand how everything works behind the scenes. Over time, I learned both and started building multiple full-stack projects. I’ve worked on several innovative ideas that solve real-world problems, always with real users, and I'm still looking for better ideas to build and solve real issues.</p>
 
-**Right now, I’m exploring AI not just using tools, but learning how the models actually work and seeking new ideas to implement in the real world. I’m also working on mobile development (at a beginner stage) to expand my skills. I like to experiment, learn by doing, and bring projects to life, whether it’s something for work or a side idea I’m passionate about. </p>
+**Right now, I’m exploring AI not just using tools, but learning how the models actually work and seeking new ideas to implement in the real world. I’m also working on mobile development (at a beginner stage) to expand my skills. I like to experiment, learn by doing, and bring projects to life, whether it’s something for work or a side idea I’m passionate about.**
 
 **Let's Connect**
 
