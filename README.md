@@ -1,8 +1,8 @@
-* **Just a software dev.**
+* Just a software dev.
 
-* **Building cool stuff.**
+* Building cool stuff.
 
-* **Studying AI.**
+* Studying AI.
 
 * Read my piece on [Medium](https://medium.com/@ayanabhachatterjee/straight-to-the-point-india-needs-its-own-llm-c92634636063)
 
