@@ -6,7 +6,7 @@
 
 * Read my piece on [Medium](https://medium.com/@ayanabhachatterjee/straight-to-the-point-india-needs-its-own-llm-c92634636063)
 
-* See my pinned projects — contributions welcome, especially for [Termino](https://github.com/ayahack89/termino).
+* Check out my pinned projects — contributions welcome, especially for [Termino](https://github.com/ayahack89/termino).
 
 * Install the [Termino VS Code extension](https://marketplace.visualstudio.com/items?itemName=ayanabhachatterjee.termino).
 
