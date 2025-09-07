@@ -1,6 +1,5 @@
-`Building cool stuff.`
-
-* Read my bolgs on [Medium](https://medium.com/@ayanabhachatterjee/straight-to-the-point-india-needs-its-own-llm-c92634636063)
+Building cool stuff.
+Read my bolgs on [Medium](https://medium.com/@ayanabhachatterjee/straight-to-the-point-india-needs-its-own-llm-c92634636063)
 
 * Read more on dev.to: [ayanabha_chatterjee](https://dev.to/ayanabha_chatterjee_b1378)
 
