@@ -1,1 +1,1 @@
-Just a software dev, building cool stuff. 
+building cool stuff. 
