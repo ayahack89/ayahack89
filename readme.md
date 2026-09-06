@@ -1,4 +1,4 @@
-<em> Just a dev, building cool stuff.<em> 
+<!-- <em> Just a dev, building cool stuff.<em>  -->
 
 <!-- <a href="https://www.buymeacoffee.com/ayanabha88" target="_blank">
   <img 
